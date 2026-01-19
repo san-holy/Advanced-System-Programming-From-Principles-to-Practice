@@ -57,7 +57,7 @@ classDiagram
         +public: setAge()
     }
 
-    note for Person "封装后：\n数据是私有的\n访问必须通过方法"
+    note for Person "封装后：<br/>数据是私有的<br/>访问必须通过方法"
 ```
 
 ### 封装的三个层次
